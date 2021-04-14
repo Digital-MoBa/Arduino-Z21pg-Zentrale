@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DigitalMoBa by Philipp Gahtow
 
 You can use the [editor on GitHub](https://github.com/Digital-MoBa/Digital-MoBa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
